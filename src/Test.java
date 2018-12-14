@@ -15,6 +15,7 @@ public class Test {
     }
 
     public static String createVoucherNum(Long voucherId) {
+		// 哈哈哈
 
         // 当前时间
         Date date = new Date();
